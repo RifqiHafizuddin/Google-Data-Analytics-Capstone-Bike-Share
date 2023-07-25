@@ -623,9 +623,8 @@ bikeshare_df2 %>%
   geom_text(aes(label = user_total), position = position_dodge(0.9), vjust = 0) +
   labs(title = "Members vs Casual")
 ```
-Visualizations/Monthly Number of Rides by Riders.png
+
 ![](case_study_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
-![](Visualizations/Monthly Number of Rides by Riders.png)
 
 ``` r
 #Weekly number of rides by riders
