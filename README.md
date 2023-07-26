@@ -1,5 +1,7 @@
 # Google Data Analytics Capstone - Case Study: Bike Share
 
+[Link](https://github.com/RifqiHafizuddin/Google-Data-Analytics-Capstone-Bike-Share/blob/47d25ddbd67c3e54f526d892d33117c296247c96/case_study.md)
+
 ## Introduction
 
 In this case study, we will perform data analysis for a fictional bike-share company in order to help them attract more riders. Along the way, we will perform numerous real-world tasks of a junior data analyst by following the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
